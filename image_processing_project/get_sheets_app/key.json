@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sampleforgmailapitesting",
+  "private_key_id": "e516ae3496b402971662ba93028ac363f8d14adb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQD5iNCLYlWlKnW3\nvjgQOu3FgUUUWXtlqBIoepQ22ZXaNYYxTy2WJdcO1dqmTzN+epGpz6e2XWbcsQez\nVtvlXgb1sS8dAWCwIhxBs3/YFzdCpqBE2ig+0cgaIdVzKbllVnKdU/qJmM1TvPI2\nD9wM0gqhiIzBSFW2jyhhz+Bagnyu28kK3icjABMJsiDSR1Q7UOQi9oP67PDbkoQc\nu4oVs+F1H9j9o+YEqstmLY2yVoBU0+FyFHJcUvfKbHS3jtN4C6ipA0h9bY8xzgpa\nex3sBNkourmZVwpSp8G7iwWv0J2bpXKdewJ1nZFuWjefUoHCG+xJpnzmGlMZi8Vd\nN+TFAowDAgMBAAECggEAS+HclT5qkAcI9D7euqTI8KI+eRE7Eq9ZEkEweDuTs99J\n9w2+baYFL6g9zQxRuvkX+b1BoZXmtV8KWfGkfiwpTqa6joYAOp+s2xf0XSi2L8kO\n/NEgovXVdYjraZF7JQN0aD6E9jnm2rufJmyNPMLU48lsEEzob9M58wCtl6iNtPhc\nge5lgjz4FFn3tHBFYy7nnlAh5WyVVQDoQfj24yu7jsWD+PF0SvY2/2bPLCoE/3nZ\nxEon7xeHPtGeziADEra7L+mDIJLOFuyuwtera53Fh1czmhcAw+y/wgqbXwrFF3VN\nudL2e4bgXfPLcV5zlS/HpTb5q2GcHFzfbAbTF/SzsQKBgQD+aGzBOqTMoZJlfb7r\nWNjVjr7aiTAP8a9RbF2kMbC4S+Osbvd0N3uBzLgctBLpeKyl39ziDTyC9HqAqz1n\nDtquK1EYNitWmnWK/wGLDlml2i281fjY2r/Q91Uugh1Rx//IO/zTVHpfMO3cRV+e\nWumawaCWYLRo4Uaec2E7A8YB0wKBgQD7GJUNCS0wQeIJABnkIryQOTzNwdW2LR9/\nLyJN288gx4u3HrB83mj+1P4ghjjwQBXF2Up9BMCojygRolI3o7x3dfx/fnziI7cl\nQp0eoBK7RCmQzR9htbKzbS9ujue8PuZvfXEaieE0eiqg/xHdhKiyQaEeLnhzZRgM\nbyZsoIC/EQKBgE0+8b6eCsnjSSstyhl1iakWRZbfTsuYi64CZFBlkg3zZPbHXrVX\n31VjDogQmSlwraNT3KJ6eGQezU9iLyuqk/WMS3w5fmE2VvhUQ2iwe8HjBD4xDfTy\nPom5f5C2iyZ4vo5SwIp+PQXIOoDGQ6k2W3XU0ui2BjFOLX4Q9HXRyH5nAoGBAO43\nCRkf7pYMuwOs6+NKrTfqhWvzC+xUbMA9mD7jXWMMzNkCrY8ZdeTlbt6uWBBdzAoy\ntn9a5ehEQFBSfcu5dBClh9Hwz0u/dH5N7z/hv0OYTBLK9428Unf1Cv3JZ8Jorjdx\ne78gtd4SVKT+uBU/SMgsiU1X6wAXFbSeMob10o7xAn8b1KF2Ajg7hWV+zDil45di\nm6ghw5Ifv9OIlmXpdAsjULVo5feCResw/FBn7EF89VOl1qVtuViLfEGB4gO3R6wS\nXgzW1shIMnFCFm4y5wBiw8gaWk/rbnmKr696kqH6svhAtzyDJ+TVtEwcjUONPLW3\nS5o+W2CCT7xRUk7rWUpQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "excel-83@sampleforgmailapitesting.iam.gserviceaccount.com",
+  "client_id": "113594098051964076587",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/excel-83%40sampleforgmailapitesting.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
